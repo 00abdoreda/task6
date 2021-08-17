@@ -792,3 +792,4 @@ class _detailstate extends State<details>{
 
 
 
+
